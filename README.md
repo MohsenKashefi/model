@@ -101,7 +101,29 @@ Contributions are welcome! If you have 3D models to add:
 
 ## 📄 License
 
-Please check individual model files for specific licensing information. Some models may have different usage rights and restrictions.
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+### What this means for you:
+
+✅ **Commercial Use** - You can use these models in commercial projects  
+✅ **Modification** - You can modify and adapt the models  
+✅ **Distribution** - You can share and redistribute the models  
+✅ **Private Use** - You can use them in private projects  
+✅ **Attribution** - You must include the original license and copyright notice  
+
+### Attribution
+
+When using these models, please include attribution in your project:
+
+```
+3D Models by MohsenKashefi
+https://github.com/MohsenKashefi/model
+Licensed under MIT License
+```
+
+### Individual Model Rights
+
+Some models may have additional restrictions or requirements. Please check individual model files for specific licensing information.
 
 ## 🔗 Related Links
 
